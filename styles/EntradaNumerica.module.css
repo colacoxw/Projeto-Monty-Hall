@@ -1,0 +1,33 @@
+.entradaNumerica {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+
+.text {
+    color: #555;
+    font: 1.5rem;
+}
+
+.value {
+    font-size: 6rem;
+}
+
+.botoes {
+    display: flex;
+}
+
+.btm {
+    background-color: #5555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+    border: none;
+}
